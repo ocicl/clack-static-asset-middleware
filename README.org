@@ -1,0 +1,10 @@
+* clack-static-asset-middleware
+
+A cache-busting static asset middleware for the clack web framework
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fisxoj/clack-static-asset-middleware.git   |
+| commit  | 23bb64f  |
+| systems | clack-static-asset-middleware |
+|---------+-------------------------------------------|
+
